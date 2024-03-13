@@ -10,8 +10,8 @@ export const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Picture Size Reducer | Develop Bharat",
-  description: "Reduce your photos size without uploading them online.",
+  title: "Photo Editor | Develop Bharat",
+  description: "Edit your photos in a secure environment.",
 };
 
 export default function RootLayout({
